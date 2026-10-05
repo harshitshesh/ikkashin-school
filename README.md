@@ -1,6 +1,7 @@
 # Ikkashin School
 
-A modern school management system built with React, Vite, and Tailwind CSS.
+A  school management system 
+**Live Demo:** [https://splendorous-hummingbird-441d32.netlify.app/]
 
 ## Features
 
@@ -19,4 +20,19 @@ A modern school management system built with React, Vite, and Tailwind CSS.
 - **Responsive Design**: Works seamlessly on different screen sizes.
 
 ## Getting Started
+
+
+1. Open the app and sign in with the demo credentials (or create a new account).
+2. Explore the dashboard and navigate using the sidebar or navbar.
+3. Try searching, filtering, and sorting the lists.
+4. Add, edit, or delete items to see the full flow in action.
+5. Resize the browser or open on mobile to see the responsive layout.
+
+## 🛠️ Changes & Improvements
+
+While working on this project, I reviewed the original requirements and the existing website, and identified several issues that affected usability and user experience. The original version had [issues, e.g. inconsistent layouts, broken navigation links, poor mobile responsiveness, missing form validation, no loading or empty states]. To fix this, I restructured the codebase into reusable components, introduced a consistent design system (colors, typography, and spacing), and improved the overall navigation flow. I also made the interface fully responsive, added form validation with clear error messages, and included toast notifications for instant feedback. Finally, I added smooth, subtle animations such as page transitions and hover effects to make the interaction feel polished, and organized the project into a clean, maintainable folder structure.
+
+
+
+
 
