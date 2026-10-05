@@ -1,0 +1,1 @@
+# ikkashin-school
